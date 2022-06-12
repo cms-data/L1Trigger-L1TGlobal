@@ -70,12 +70,12 @@
         <row>59,1</row> <!--L1_DoubleMu0er1p5_SQ_dR_Max1p4-->
         <row>60,1</row> <!--L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4-->
         <row>61,1</row> <!--L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4-->
-        <row>62,1</row> <!--L1_DoubleMu4p5_SQ_OS-->
-        <row>63,1</row> <!--L1_DoubleMu4p5_SQ_OS_dR_Max1p2-->
+        <row>62,1</row> <!--L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6 - Run 3 (2022)-->  
+        <row>63,1</row> <!--L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4 - Run 3 (2022)-->        
         <row>64,1</row> <!--L1_DoubleMu4_SQ_OS-->
         <row>65,1</row> <!--L1_DoubleMu4_SQ_OS_dR_Max1p2-->
-        <row>66,1</row> <!--L1_DoubleMu0er1p4_OQ_OS_dEta_Max1p6 - Run 3 (2022)-->
-        <row>67,1</row> <!--L1_DoubleMu3er2p0_SQ_OS_dR_Max1p4 - Run 3 (2022)-->
+        <row>66,1</row> <!--L1_DoubleMu4p5_SQ_OS-->
+        <row>67,1</row> <!--L1_DoubleMu4p5_SQ_OS_dR_Max1p2-->
         <row>68,1</row> <!--L1_DoubleMu4p5er2p0_SQ_OS-->
         <row>69,1</row> <!--L1_DoubleMu4p5er2p0_SQ_OS_Mass_Min7-->
         <row>70,1</row> <!--L1_DoubleMu4p5er2p0_SQ_OS_Mass_7to18-->
@@ -105,7 +105,7 @@
         <row>94,0</row> 
         <row>95,0</row> 
         <row>96,1</row> <!--L1_Mu5_EG23er2p5-->
-        <row>97,1</row> <!--L1_Mu7_EG23er2p5-->
+        <row>97,1</row> <!--L1_Mu7_EG20er2p5-->
         <row>98,1</row> <!--L1_Mu7_EG23er2p5-->
         <row>99,1</row> <!--L1_Mu20_EG10er2p5-->
         <row>100,1</row> <!--L1_Mu5_LooseIsoEG20er2p5-->
@@ -357,7 +357,7 @@
         <row>346,1</row> <!--L1_DoubleJet112er2p3_dEta_Max1p6-->
         <row>347,0</row> 
         <row>348,1</row> <!--L1_DoubleJet30er2p5_Mass_Min150_dEta_Max1p5-->
-        <row>349,1</row> <!--L1_DoubleJet30er2p5_Mass_Min290_dEta_Max1p5-->
+        <row>349,1</row> <!--L1_DoubleJet30er2p5_Mass_Min200_dEta_Max1p5-->
         <row>350,1</row> <!--L1_DoubleJet30er2p5_Mass_Min250_dEta_Max1p5-->
         <row>351,1</row> <!--L1_DoubleJet30er2p5_Mass_Min300_dEta_Max1p5-->
         <row>352,1</row> <!--L1_DoubleJet30er2p5_Mass_Min330_dEta_Max1p5-->
