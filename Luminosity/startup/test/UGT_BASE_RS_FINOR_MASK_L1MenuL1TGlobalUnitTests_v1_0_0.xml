@@ -1,0 +1,22 @@
+<run-settings id="uGT">
+  <context id="uGtProcessor">
+    <param id="finorMask" type="table">
+      <columns>
+              algo,mask
+      </columns>
+      <types>
+              uint,uint
+      </types>
+      <rows>
+        <row> 21,1</row> <!-- L1_SingleMu22 -->
+        <row>194,1</row> <!-- L1_SingleIsoEG32er2p5 -->
+        <row>286,1</row> <!-- L1_Mu22er2p1_IsoTau30er2p1 -->
+        <row>318,1</row> <!-- L1_SingleJet90er2p5 -->
+        <row>428,1</row> <!-- L1_ETMHF80_HTT60er -->
+        <row>459,1</row> <!-- L1_ZeroBias -->
+        <row>461,1</row> <!-- L1_MinimumBiasHF0_AND_BptxAND -->
+        <row>480,1</row> <!-- L1_FirstCollisionInOrbit -->
+      </rows>
+    </param>
+  </context>
+</run-settings>

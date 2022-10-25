@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run-settings id="uGT">
+  <context id="uGtProcessor">
+    <param id="index" type="uint">2</param>
+    <param id="prescales" type="table">
+      <columns>algo/prescale-index, 0, 1, 2</columns>
+      <types>double, double, double, double</types>
+      <rows>
+        <row> 21, 0, 1.00,  1.00</row> <!-- L1_SingleMu22 -->
+        <row>194, 0., 1.0,  0.00</row> <!-- L1_SingleIsoEG32er2p5 -->
+        <row>286, 0.0, 1.,  1.20</row> <!-- L1_Mu22er2p1_IsoTau30er2p1 -->
+        <row>318, 0.00, 1,  6.65</row> <!-- L1_SingleJet90er2p5 -->
+        <row>428, 0, 1.00,  3.40</row> <!-- L1_ETMHF80_HTT60er -->
+        <row>459, 0., 1.0, 50.10</row> <!-- L1_ZeroBias -->
+        <row>461, 0.0, 1.,  1.23</row> <!-- L1_MinimumBiasHF0_AND_BptxAND -->
+        <row>480, 0.00, 1,  1.00</row> <!-- L1_FirstCollisionInOrbit -->
+      </rows>
+    </param>
+  </context>
+</run-settings>
